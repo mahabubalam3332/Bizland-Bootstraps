@@ -1,0 +1,9 @@
+*{margin:o;
+padding:0;
+}
+#hero{
+    background-image: url(../images/hero-bg.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-attachment: fixed;
+}
